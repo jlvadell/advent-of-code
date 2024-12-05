@@ -18,7 +18,7 @@ This repo contains my journey through the challenges of Advent of Code, a series
 - Complete more puzzles each year.
 - Explore even more languages.
 
-<hr />
+---
 Join me in celebrating the spirit of problem-solving, learning, and holiday cheer! Contributions, suggestions, or just a quick hello are always welcome. 🎉
 
 Happy Coding! 🎄✨

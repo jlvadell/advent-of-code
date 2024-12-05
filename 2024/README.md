@@ -12,12 +12,13 @@ The main objective is to obtain as many stars as possible, I will try to get at 
 
 This year puzzles will be solved using python 3.12, each puzzle will be an independent project following the next structure:
 - `dayX`: X goes from 1 to 25
-  - `data`: containing the input data file
   - `src`
+    - `data`: containing the input data file
     - `main.py`: contains the functions that solve the puzzle
     - `xxxx.py`: Other scripts that may be needed
-  - `tests`: test files
-    - `data`: test inputs
+    - `tests`: test files
+      - `data`: test inputs
+      - `test_xxxx.py`: contains test cases.
 
 
 ## Progress Tracking

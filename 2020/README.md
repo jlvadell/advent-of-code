@@ -12,5 +12,5 @@ I will try to solve these puzzles using typescript adn deno, I can't promise to 
 
 
 ## Progress Tracking
-### Stars Obtained: 6 of 50 → ![28%](https://progress-bar.xyz/12)
-### Days Solved: 3 of 25 → ![28%](https://progress-bar.xyz/12)
+### Stars Obtained: 6 of 50 → ![12%](https://progress-bar.xyz/12)
+### Days Solved: 3 of 25 → ![12%](https://progress-bar.xyz/12)
