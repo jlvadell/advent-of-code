@@ -11,7 +11,7 @@ This repo contains my journey through the challenges of Advent of Code, a series
 | ---- |---------------|--------------|---------------------|
 | 2020 | 6             | 3            | 🟦 TypeScript, Deno |
 | 2022 | 14            | 7            | 🐍 Python 3.10      |
-| 2024 | 0             | 0            | 🐍 Python 3.12      |
+| 2024 | 4             | 2            | 🐍 Python 3.12      |
 
 
 # 🌟 Goals
