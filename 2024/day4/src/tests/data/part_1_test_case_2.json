@@ -1,0 +1,5 @@
+{
+  "name": "part_1_test_case_2",
+  "raw_input":  "MMMSXXMASM\nMSAMXMSMSA\nAMXSXMAAMM\nMSAMASMSMX\nXMASAMXAMM\nXXAMMXXAMA\nSMSMSASXSS\nSAXAMASAAA\nMAMMMXMMMM\nMXMXAXMASX",
+  "expected_result": 18
+}

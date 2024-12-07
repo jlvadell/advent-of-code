@@ -1,0 +1,5 @@
+{
+  "name": "part_2_test_case_1",
+  "raw_input":  ".M.S......\n..A..MSMS.\n.M.S.MAA..\n..A.ASMSM.\n.M.S.M....\n..........\nS.S.S.S.S.\n.A.A.A.A..\nM.M.M.M.M.\n..........",
+  "expected_result": 9
+}
